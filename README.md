@@ -4,10 +4,12 @@
 
 We have two flows for this project: 
 
-- When a file is created or modified (properties only) in SharePoint Folder It will Copy files to Blob  
+- When a file is created or modified (properties only) in SharePoint Folder It will Copy files to Blob
+
 ![image](https://github.com/MYousafTK/Power-Automate/assets/128382787/5d05f6cd-e9fc-4534-940a-03c5dd0ef361)
 
-- When a file is deleted in SharePoint It will delete from blob 
+- When a file is deleted in SharePoint It will delete from blob
+
 ![image](https://github.com/MYousafTK/Power-Automate/assets/128382787/7b67b417-c1bb-4783-ad6e-c8ce6194b0d7)
 
 # 2- Get Invoices from Sharepoint, Extract data from Invoices utilizing Form Recognizer Model and save them to SQL based on condition
